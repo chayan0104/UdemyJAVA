@@ -3,9 +3,8 @@ package com.basics.java;
 public class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Hello, Tim");
 
-        boolean isAlien = false;
+  boolean isAlien = false;
         if (isAlien == false) {
             System.out.println("It is not an alien!");
             System.out.println("And I am scared of aliens");
@@ -25,12 +24,13 @@ public class Hello {
             System.out.println("Either or both of the conditions are true");
         }
 
+
         int newValue = 50;
         if (newValue == 50) {
             System.out.println("This is true");
         }
 
-        boolean isCar = false;
+boolean isCar = false;
         if (!isCar) {
             System.out.println("This is not supposed to happen");
         }
@@ -57,6 +57,7 @@ public class Hello {
         if (!isNoRemainder) {
             System.out.println("Got some remainder");
         }
+
 
     }
 }
