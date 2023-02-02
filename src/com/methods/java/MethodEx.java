@@ -5,6 +5,7 @@ public class MethodEx {
         calculateScore(10000,8,200,true);
     }
     //another methods
+    //return type is mandatory for exit from any another block to send the data to the main block
     public static void calculateScore(int score,int levelCompleted,int bonus,boolean gameOver){
         /*int score = 10000;
         int levelCompleted =8;

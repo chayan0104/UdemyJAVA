@@ -1,4 +1,4 @@
-package com.ExpStatement.Java;
+package com.expStmt.java;
 
 public class IFElseChallenge {
     public static void main(String[] args) {
