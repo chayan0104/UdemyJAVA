@@ -1,4 +1,4 @@
-package com.controllFlow.java;
+package com.controllFlow.java.switchcase;
 // cannot use double,long , float or the wrappers in  switch statement
 public class SwitchStatement {
     public static void main(String[] args) {

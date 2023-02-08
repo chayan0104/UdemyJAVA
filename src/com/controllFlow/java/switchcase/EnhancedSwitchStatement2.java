@@ -1,5 +1,5 @@
 
-package com.controllFlow.java;
+package com.controllFlow.java.switchcase;
 public class EnhancedSwitchStatement2 {
 
     public static void main(String[] args) {

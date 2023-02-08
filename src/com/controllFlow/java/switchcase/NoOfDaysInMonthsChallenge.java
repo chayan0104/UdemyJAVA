@@ -1,4 +1,4 @@
-package com.controllFlow.java;
+package com.controllFlow.java.switchcase;
 
 public class NoOfDaysInMonthsChallenge {
     public static  boolean isLeapYear(int year) {
