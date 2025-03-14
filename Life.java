@@ -1,5 +1,3 @@
-package com.demoApi.javaTrainee;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
